@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="12105014-ac30-4138-8576-f58c32f74f09" manual="true">
+    <element uuid="ca9ae2f4-24c1-4322-9312-d93e9e02fc60" manual="true">
+      <element uuid="bee3f812-7767-4993-beee-2f844117bb5d" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i1</seg>
+      </bo>
+    </element>
+    <element uuid="d75d2cf1-a8c4-4bca-9a4e-8a63dee3065d" manual="true">
+      <element uuid="5d7fadd6-a268-4047-a77f-e9634629fa24" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i10</seg>
+      </bo>
+    </element>
+    <element uuid="a7235182-836e-4866-a0fe-4dc989c9b652" manual="true">
+      <element uuid="be0f32c6-a3df-4dd9-b41e-ef29566ecb06" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i2</seg>
+      </bo>
+    </element>
+    <element uuid="85658b97-b022-4260-9379-f800680a0595" manual="true">
+      <element uuid="b10e04f6-9a48-4b33-b4d5-2eed0a999606" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i3</seg>
+      </bo>
+    </element>
+    <element uuid="5c308177-99ce-418f-9d0a-6831d5bf1882" manual="true">
+      <element uuid="dcba490f-8d2b-40cd-be49-4464e9b4b72b" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i4</seg>
+      </bo>
+    </element>
+    <element uuid="79c0e8a8-265e-43f4-9584-2e81619200b9" manual="true">
+      <element uuid="69242021-3c30-4029-a6b3-b536901576bb" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i5</seg>
+      </bo>
+    </element>
+    <element uuid="fd82ea7e-1146-4c9c-8cbc-6400ac8ffd41" manual="true">
+      <element uuid="dc358847-25c3-47bd-aa5a-9711527a501e" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i6</seg>
+      </bo>
+    </element>
+    <element uuid="333a9f74-8141-4de3-a631-2dd955872b76" manual="true">
+      <element uuid="f8941fd9-6d78-44ea-a3e3-edc06599cbf7" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i7</seg>
+      </bo>
+    </element>
+    <element uuid="d5d3d35d-bcf5-4420-b1fd-a7e5f1362847" manual="true">
+      <element uuid="17492431-aff4-48d4-84c7-989f0b2c3287" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i8</seg>
+      </bo>
+    </element>
+    <element uuid="9ed05acd-520e-41a5-9877-d3fbf294c9e3" manual="true">
+      <element uuid="74dcbb8d-b983-410d-b512-7941d3d4fbbb" manual="true">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>i9</seg>
+      </bo>
+    </element>
+    <element uuid="4a11a7f1-b5d0-4426-8642-b02fb656ac04" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>constellation</seg>
+      </bo>
+      <position y="148.0"/>
+    </element>
+    <element uuid="50bf3e40-a844-4e9b-b2d5-c1e8a9796f04" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>gps_health_status</seg>
+      </bo>
+      <position x="515.0" y="148.0"/>
+    </element>
+    <element uuid="cc0b09f3-aecf-491e-9542-631eb8d0a05a" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>gps_pos</seg>
+      </bo>
+      <position x="578.0" y="98.0"/>
+    </element>
+    <element uuid="e80afd42-a990-4d1f-b9f7-a4f9eb7f45e1" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>imu_health_status</seg>
+      </bo>
+      <position x="515.0" y="228.0"/>
+    </element>
+    <element uuid="8d23cf64-c111-46aa-8bd8-9f78c2b11046" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>imu_pos</seg>
+      </bo>
+      <position x="578.0" y="278.0"/>
+    </element>
+    <element uuid="dd171a78-bc2d-4bdd-a350-ed2affbb6fce" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>launch_pos</seg>
+      </bo>
+      <position y="278.0"/>
+    </element>
+    <element uuid="a1b3dcce-4569-4541-b65b-4359e02a079d" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>probe_constellation</seg>
+      </bo>
+      <position x="504.0" y="48.0"/>
+    </element>
+    <element uuid="c34aa083-e695-40ba-a820-ba904f6fad79" manual="true" dockArea="right">
+      <bo>
+        <seg>feature</seg>
+        <seg>probe_launch_pos</seg>
+      </bo>
+      <position x="515.0" y="328.0"/>
+    </element>
+    <element uuid="d89abe03-4e6e-4056-a513-814c0fae1963" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>satellite0_pos</seg>
+      </bo>
+      <position y="98.0"/>
+    </element>
+    <element uuid="4d8adfa9-f46b-4c12-ab26-5a44ca2d4a9d" manual="true" dockArea="left">
+      <bo>
+        <seg>feature</seg>
+        <seg>satellite1_pos</seg>
+      </bo>
+      <position y="48.0"/>
+    </element>
+    <element uuid="09bcc729-1aa5-4517-89cd-c69f6696a666" manual="true">
+      <element uuid="9c443e63-f597-46a4-a104-83d0680604b6" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>constellation</seg>
+        </bo>
+        <position y="110.0"/>
+      </element>
+      <element uuid="747d3b70-c518-40ec-ad06-f460099a7dd3" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>gps_pos</seg>
+        </bo>
+        <position x="304.0" y="60.0"/>
+      </element>
+      <element uuid="4f4d00e4-d723-4adc-81cf-6a68bbf87fd8" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>health_status</seg>
+        </bo>
+        <position x="274.0" y="110.0"/>
+      </element>
+      <element uuid="64f2854a-9e2d-4d04-801c-7c2cc592a2c6" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>probe_constellation</seg>
+        </bo>
+        <position x="230.0" y="10.0"/>
+      </element>
+      <element uuid="792861db-99eb-411c-8739-faf41b265b2d" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>satellite0_pos</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="72f7bdd1-dbb4-475b-9153-46abecd506cb" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>satellite1_pos</seg>
+        </bo>
+        <position y="10.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>gps</seg>
+      </bo>
+      <position x="116.0" y="38.0"/>
+      <size width="376.0" height="160.0"/>
+    </element>
+    <element uuid="7ca33d64-ecd0-4caa-9407-317795a92a50" manual="true">
+      <element uuid="1a3bc084-3957-4660-a0ff-c765c6111b18" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>health_status</seg>
+        </bo>
+        <position x="252.0" y="10.0"/>
+      </element>
+      <element uuid="a12a9b55-e76e-491b-9622-8193082ebd56" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>imu_pos</seg>
+        </bo>
+        <position x="282.0" y="60.0"/>
+      </element>
+      <element uuid="cb61789e-2074-458c-9800-053c6d3dc503" manual="true" dockArea="left">
+        <bo>
+          <seg>feature</seg>
+          <seg>launch_pos</seg>
+        </bo>
+        <position y="60.0"/>
+      </element>
+      <element uuid="3d0a8580-f8fd-4535-9b2c-5c02b12d97f0" manual="true" dockArea="right">
+        <bo>
+          <seg>feature</seg>
+          <seg>probe_launch_pos</seg>
+        </bo>
+        <position x="219.0" y="110.0"/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>imu</seg>
+      </bo>
+      <position x="116.0" y="218.0"/>
+      <size width="354.0" height="160.0"/>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>gnc.impl</seg>
+    </bo>
+    <position x="12.0" y="12.0"/>
+    <size width="650.0" height="390.0"/>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>gnc::gnc.impl</seg>
+    </context>
+  </config>
+</diagram:Diagram>
